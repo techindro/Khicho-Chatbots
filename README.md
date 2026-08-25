@@ -25,4 +25,4 @@
 1. **Clone the repository**
 ```bash
 git clone https://github.com/techindro/khicho_chatbot.git
-cd khicho-chatbot
+cd khicho-chatbots
